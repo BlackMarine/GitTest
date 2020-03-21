@@ -19,8 +19,8 @@ public class MainController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKey(KeyCode.Space)) // getkeydown은 점프에서 해야함 점프를 getkey로하면 계속 점프함 누를때만 점프하게해야함
-            //Down 지우고 시도
+        if(Input.GetKeyDown(KeyCode.Space)) // getkeydown은 점프에서 해야함 점프를 getkey로하면 계속 점프함 누를때만 점프하게해야함
+            //Down 지우고 시도. 취소
         {
             animator.Play("JUMP00", -1, 0);
         }
