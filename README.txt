@@ -6,6 +6,8 @@ Git을 이용하여 텔레파시 통하는 팀 만들기: commit message와 comm
 	http://story.haezoom.com/?p=936
 Git의 동작 원리 [Git으로 시작하는 협업과 오픈소스 프로젝트 4강]
 	https://ndb796.tistory.com/187?category=1029186
+Git 설치와 사용법(SourceTree)
+	https://gbsb.tistory.com/9
 
 Summary:
 ENH: (Enhancement) 개선하거나 신기능 추가
